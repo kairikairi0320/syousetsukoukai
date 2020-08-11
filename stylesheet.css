@@ -1,0 +1,62 @@
+body{
+margin:0;
+font-family:serif;
+}
+
+.top-wrapper{
+ color:#006400;
+ padding:60px 0px 100px 0px;
+ background-image:url(https://flowerillust.com/img/flower/flower-back0105.png);
+ background-size:cover;
+ text-align:center;
+}
+.top-wrapper p{
+ padding-bottom:70px;
+ border-bottom:5px solid #ffc0cb;
+}
+
+.top-wrapper h2{
+ text-align:left;
+ padding-left:20px;
+}
+
+
+.top-wrapper li{
+ text-align:left;
+ padding:5px
+ 
+}
+
+
+header{
+color:#800000;
+height:50px;
+background-color:#fff0f5;
+line-height:15px;
+}
+
+.header-logo{
+float:left;
+padding-left:10px;
+}
+
+
+.header-list li {
+list-style:none;
+float:left;
+padding:20px 15px 20px 50px;
+font-weight:bold
+}
+
+
+
+footer{
+text-align:center;
+height:150px;
+background-color:#ffb6c1;
+}
+
+footer h3{
+padding-top:60px;
+}
+
